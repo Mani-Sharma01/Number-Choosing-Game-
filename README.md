@@ -8,16 +8,11 @@ This is a simple number choosing game implemented in Python. In this game, the c
 
 git clone https://github.com/Mani-Sharma01/number-choosing-game.git
 
-2. Navigate to the project directory:
-
-cd number-choosing-game
-
+2. Navigate to the project directory
 
 3. Run the game:
 
-python number_game.py
-
-vbnet
+Number choosing game.py
 
 
 4. Follow the instructions on the screen to guess the number chosen by the computer.
